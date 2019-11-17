@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    
+    <remote name="origin" fetch="https://github.com/ZXDaniel1982/" />
+    
+    <default revision="master" remote="origin"/>
+        
+    <project name="CLearning" path="CLearning" remote="origin" revision="28be5a6597c16795de6c7341ce661469613d6425"/>
+
+</manifest>
